@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Am-i-the-red-flag-app/static/css/main.59ffa6af.css",
+    "main.js": "/Am-i-the-red-flag-app/static/js/main.862f613d.js",
+    "index.html": "/Am-i-the-red-flag-app/index.html",
+    "main.59ffa6af.css.map": "/Am-i-the-red-flag-app/static/css/main.59ffa6af.css.map",
+    "main.862f613d.js.map": "/Am-i-the-red-flag-app/static/js/main.862f613d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ffa6af.css",
+    "static/js/main.862f613d.js"
+  ]
+}
